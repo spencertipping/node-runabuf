@@ -1,0 +1,3 @@
+Run-A-Buf: a node.js native extension that introduces obscenely huge security
+vulnerabilities into any Javascript application by adding PROT_EXEC to buffer
+data.
